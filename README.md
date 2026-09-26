@@ -108,4 +108,17 @@ HR-Analytics-Dashboard/
 **Aashish Lovewanshi**
 Data Analyst | Power BI | SQL | Python | Excel
 
-⭐ If you find this project useful, feel free to explore the dashboard and repository.
+
+## 📬 Connect With Me
+
+**Aashish Lovewanshi**
+
+💼 Data Analyst
+
+* 🔗 LinkedIn: https://www.linkedin.com/in/aashish-lovewanshi/
+* 💻 GitHub: [https://github.com/aashishlovewanshi](https://github.com/Aashish0983)
+
+---
+
+### ⭐ If you found this project helpful or interesting, consider giving it a **Star**. Your support motivates me to build more data analytics projects!
+
